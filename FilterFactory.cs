@@ -16,7 +16,9 @@ namespace WindowsFormsApp3
             {
                 new RadFilter(),
                 new GrayFilter(),
-                new MirrovFilter()
+                new MirrovFilter(),
+                new ColorInversion(),
+                new WhiteBlackFilter()
             };
         }
         public List<string> GetNames()
