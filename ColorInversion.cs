@@ -20,7 +20,7 @@ namespace WindowsFormsApp3
                 for (int j = 0; j < w; j++)
                 {
                     Color color = bitmap.GetPixel(j, i);
-                    Color c = Color.FromArgb(255 - color.R, 255 - color.G, 255 - color.B);
+                    Color c = Color.FromArgb( 255-color.R, 255-color.G, 255-color.B);
                     result.SetPixel(j, i, c);
                 }
             }

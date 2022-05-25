@@ -1,2 +1,0 @@
-# WindowsForm
-Interface, Image(Bitmap)

@@ -19,3 +19,13 @@ D:\031_ГЛЕБ\c#\c#\windowsForm\obj\Debug\WindowsFormsApp3.csproj.GenerateReso
 D:\031_ГЛЕБ\c#\c#\windowsForm\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
 D:\031_ГЛЕБ\c#\c#\windowsForm\obj\Debug\WindowsFormsApp3.exe
 D:\031_ГЛЕБ\c#\c#\windowsForm\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Кирилл\Source\Repos\WindowsForm\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Source\Repos\WindowsForm\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Кирилл\Source\Repos\WindowsForm\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Кирилл\Source\Repos\WindowsForm\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Кирилл\Source\Repos\WindowsForm\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Source\Repos\WindowsForm\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Кирилл\Source\Repos\WindowsForm\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Кирилл\Source\Repos\WindowsForm\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Кирилл\Source\Repos\WindowsForm\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Кирилл\Source\Repos\WindowsForm\bin\Debug\WindowsFormsApp3.pdb
